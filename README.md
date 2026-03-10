@@ -4,5 +4,5 @@ Love2D ru Alphabet with sounds
 
 Build
 ```bash
-zip -9 -r alphabet.love ./src/ -x "*.git*" -x "build/*"
+zip -9 -r alphabet.love ./src/
 ```
